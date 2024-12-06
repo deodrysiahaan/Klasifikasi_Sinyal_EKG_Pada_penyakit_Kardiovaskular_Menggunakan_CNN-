@@ -1,1 +1,1 @@
-# Klasifikasi_Sinyal_EKG_Pada_penyakit_Kardiovaskular_Menggunakan_CNN-
+# Klasifikasi_Sinyal_EKG_Pada_penyakit_Kardiovaskular_Menggunakan_CNN
